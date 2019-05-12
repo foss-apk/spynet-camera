@@ -1,5 +1,9 @@
 # spyNet Cloud IP Camera
 
+**Note:** source code for this app is no longer available. 
+* **Main repo:** https://github.com/dematteispaolo/spynet-camera
+* **Last release:** https://github.com/foss-apk/spynet-camera/releases
+
 ### Allows to use your mobile device as an IP camera than can stream to the cloud
 
 With *spyNet Camera* it is possible to use an Android device as a wireless IP camera.
@@ -38,6 +42,3 @@ and to translate the messages in your own language.
 According to the GPL license, you are the welcome in browsing, downloading and editing the spyNet Camera source code, maybe to create your own version.
 Anyway, the only official version will be the one that can be downloaded from the Google Play Store.
 The author is not responsible of any other version other than the official one.
-
-**Note:** source code for this app is no longer available. **Main repo:** https://github.com/dematteispaolo/spynet-camera
-**Last release:** https://github.com/John3/spynet-camera/releases
